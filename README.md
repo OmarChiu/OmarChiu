@@ -12,11 +12,3 @@ What I'm working on
 
 I'm using this account to document my learning journey with Claude AI. Notes and small experiments will be added here as I go.
 
-[ ] [First project or learning goal]
-[ ] [Second project or learning goal]
-Background
-BIOS engineering
-Platform management
-[Add other areas, e.g. system bring-up, debugging, validation, if they apply]
-Get in touch
-[Add a contact link you are comfortable making public, e.g. LinkedIn]
